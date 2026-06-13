@@ -34,7 +34,8 @@ const projects = [
     description:
       "Premium marketing website built for a mobile productivity application. Designed with modern UI principles, responsive layouts, engaging animations, feature showcases, testimonials, and conversion-focused call-to-actions.",
     image: "/projects/leno.jpg",
-    demo: "https://leno-nlu9ppga6-yahya-saeeds-projects.vercel.app",
+    demo: "https://leno-app-plum.vercel.app/",
+
     github: "https://github.com/yahya-saeed/Leno-App",
   },
 ];
