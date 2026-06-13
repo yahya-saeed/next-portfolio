@@ -28,6 +28,15 @@ const projects = [
     demo: "https://raect-ashboard.vercel.app/",
     github: "https://github.com/yahya-saeed/raect-dashboard",
   },
+  {
+    id: 4,
+    title: "Leno — SaaS Product Landing Page",
+    description:
+      "Premium marketing website built for a mobile productivity application. Designed with modern UI principles, responsive layouts, engaging animations, feature showcases, testimonials, and conversion-focused call-to-actions.",
+    image: "/projects/leno.jpg",
+    demo: "https://leno-nlu9ppga6-yahya-saeeds-projects.vercel.app",
+    github: "https://github.com/yahya-saeed/Leno-App",
+  },
 ];
 
 export default projects;
