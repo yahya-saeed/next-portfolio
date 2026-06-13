@@ -5,7 +5,7 @@ const projects = [
     description:
       "A modern ecommerce application built with React, featuring product filtering, cart management, responsive design, and a seamless shopping experience.",
     image: "/projects/ecommerce.jpg",
-    demo: "https://ecommerce-demo.vercel.app",
+    demo: "https://ecommerce-mu-lyart.vercel.app/",
     github: "https://github.com/yahya-saeed/ecommerce",
   },
 
@@ -15,7 +15,7 @@ const projects = [
     description:
       "An animated developer portfolio built with Next.js, Framer Motion, and Tailwind CSS, focused on performance, branding, and lead generation.",
     image: "/projects/portfolio.jpg",
-    demo: "https://portfolio-demo.vercel.app",
+    demo: "https://next-portfolio-flame-mu.vercel.app/",
     github: "https://github.com/yahya-saeed/next-portfolio",
   },
 
@@ -25,7 +25,7 @@ const projects = [
     description:
       "A modern dashboard interface with analytics widgets, charts, responsive layouts, and clean UI components for data visualization.",
     image: "/projects/dashboard.jpg",
-    demo: "https://dashboard-demo.vercel.app",
+    demo: "https://raect-ashboard.vercel.app/",
     github: "https://github.com/yahya-saeed/react-dashboard",
   },
 ];
