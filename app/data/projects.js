@@ -26,7 +26,7 @@ const projects = [
       "A modern dashboard interface with analytics widgets, charts, responsive layouts, and clean UI components for data visualization.",
     image: "/projects/dashboard.jpg",
     demo: "https://raect-ashboard.vercel.app/",
-    github: "https://github.com/yahya-saeed/react-dashboard",
+    github: "https://github.com/yahya-saeed/raect-dashboard",
   },
 ];
 
