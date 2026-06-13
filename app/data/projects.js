@@ -38,6 +38,24 @@ const projects = [
 
     github: "https://github.com/yahya-saeed/Leno-App",
   },
+  {
+    id: 5,
+    title: "AI-Powered EdTech Learning Platform",
+    description:
+      "Full modern SaaS landing page for an AI tutoring platform. Designed to help students learn through structured modules, interactive learning paths, and conversion-optimized UI for subscription-based education products.",
+    image: "/projects/tutor.jpg",
+    demo: "https://tutor-web-xi.vercel.app",
+    github: "https://github.com/yahya-saeed/tutor-web",
+  },
+  {
+    id: 6,
+    title: "Lumina Creative — Agency Landing Page",
+    description:
+      "Premium creative agency landing page designed with a strong focus on branding, conversion-driven structure, and modern UI aesthetics. Built to showcase agency services, storytelling sections, and high-impact call-to-actions for client acquisition.",
+    image: "/projects/lumina.jpg",
+    demo: "https://lumina-creative-six.vercel.app",
+    github: "https://github.com/yahya-saeed/Lumina-creative",
+  },
 ];
 
 export default projects;
